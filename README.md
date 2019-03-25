@@ -13,3 +13,6 @@ upload: "scifiNeoPixel.ino" to the arduino nano
 3. wait 1 second
 4. tap it
 5. done
+
+# in action
+https://www.youtube.com/watch?v=kCEK6OSBNuI
