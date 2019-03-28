@@ -2,17 +2,17 @@
 https://github.com/wolfvdsteen6/scifiNeoPixel
 
 # setup hardware & software
-connect the digital port of the NeoPixel board to D2
-connect the digital port of the touchSensor to D3
-give both 5v and gnd connection
-upload: "scifiNeoPixel.ino" to the arduino nano
+1. connect the digital port of the NeoPixel board to D2
+2. connect the digital port of the touchSensor to D3
+3. give both 5v and gnd connection
+4. upload: "scifiNeoPixel.ino" to the arduino nano
 
 # setup hardware & software V2
-connect the digital port of the NeoPixel board to D2
-connect the digital port of the touchSensor to D3
-connect the digital port of the second touchSensor to D4
-give both 5v and gnd connection
-upload: "scifiNeoPixelV2.ino" to the arduino nano
+1. connect the digital port of the NeoPixel board to D2
+2. connect the digital port of the touchSensor to D3
+3. connect the digital port of the second touchSensor to D4
+4. give both 5v and gnd connection
+5. upload: "scifiNeoPixelV2.ino" to the arduino nano
 
 # how to use
 1. hold the touch sensor for 1 t/m 6 seconds (the amount of seconds will be shown)
@@ -25,17 +25,17 @@ upload: "scifiNeoPixelV2.ino" to the arduino nano
 https://www.youtube.com/watch?v=kCEK6OSBNuI
 
 # effect's D3
-hold 1 sec: boot animation
-hold 2 sec: 3 by 3
-hold 3 sec: fill 135246
-hold 4 sec: fill 135246 clear
-hold 5 sec: win10 load
-hold 6 sec: duo pixel load
+1. hold 1 sec: boot animation
+2. hold 2 sec: 3 by 3
+3. hold 3 sec: fill 135246
+4. hold 4 sec: fill 135246 clear
+5. hold 5 sec: win10 load
+6. hold 6 sec: duo pixel load
 
 # effect's D4
-hold 1 sec: random
-hold 2 sec: set color red
-hold 3 sec: set color green
-hold 4 sec: set color blue
-hold 5 sec: reset color
-hold 6 sec: set color white
+1. hold 1 sec: random
+2. hold 2 sec: set color red
+3. hold 3 sec: set color green
+4. hold 4 sec: set color blue
+5. hold 5 sec: reset color
+6. hold 6 sec: set color white
