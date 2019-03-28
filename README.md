@@ -23,3 +23,19 @@ upload: "scifiNeoPixelV2.ino" to the arduino nano
 
 # in action
 https://www.youtube.com/watch?v=kCEK6OSBNuI
+
+# effect's D3
+hold 1 sec: boot animation
+hold 2 sec: 3 by 3
+hold 3 sec: fill 135246
+hold 4 sec: fill 135246 clear
+hold 5 sec: win10 load
+hold 6 sec: duo pixel load
+
+# effect's D4
+hold 1 sec: random
+hold 2 sec: set color red
+hold 3 sec: set color green
+hold 4 sec: set color blue
+hold 5 sec: reset color
+hold 6 sec: set color white
