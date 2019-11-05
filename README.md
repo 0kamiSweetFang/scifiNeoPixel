@@ -1,5 +1,5 @@
 # scifiNeoPixel
-https://github.com/wolfvdsteen6/scifiNeoPixel
+https://github.com/0kamiSweetFang/scifiNeoPixel
 
 # setup hardware & software
 1. connect the digital port of the NeoPixel board to D2
